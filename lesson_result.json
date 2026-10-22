@@ -1,0 +1,54 @@
+{
+  "topic": "RAG",
+  "grounding": "general model knowledge; not independently verified",
+  "passed": true,
+  "attempts_used": 1,
+  "max_retries": 2,
+  "lesson": "# Understanding RAG (Red, Amber, Green) System\n\n## What is RAG?\nRAG stands for Red, Amber, Green. It is a simple system used to show the status of a project or task. Each color represents a different level of progress or risk:\n- **Red** means there are serious problems that need immediate attention.\n- **Amber** means there are some issues, but they are manageable.\n- **Green** means everything is going well.\n\n## Why is RAG Important?\nThe RAG system is useful because it helps people quickly understand how a project is doing. It allows teams to identify problems early and take action. This can save time and resources.\n\n## How Does RAG Work?\nThe RAG system is often used in reports and dashboards. Here’s how it works:\n1. **Assessment**: Team members assess the status of their tasks or projects.\n2. **Color Coding**: They assign a color (Red, Amber, or Green) based on the current situation.\n3. **Reporting**: The colors are then reported to stakeholders, such as managers or clients.\n\n### Example\nImagine a school project where students need to complete different tasks:\n- **Task 1**: Research (Green) - Completed on time.\n- **Task 2**: Presentation (Amber) - Needs some more work but is on track.\n- **Task 3**: Report (Red) - Not started and needs immediate attention.\n\nIn this example, the RAG system helps the team see where they need to focus their efforts.\n\n## Limitations of RAG\nWhile RAG is helpful, it has some limitations:\n- **Subjectivity**: Different people may have different views on what each color means.\n- **Oversimplification**: It may not capture all the details of a project.\n- **Lack of Context**: A color alone does not explain why a task is Red, Amber, or Green.\n\n## Recap\nThe RAG system is a simple way to show the status of projects using colors. It helps teams identify problems quickly and take action. However, it is important to remember its limitations, such as subjectivity and oversimplification.\n\n### Question\n**What does a Red status mean in the RAG system?**  \n**Answer**: A Red status means there are serious problems that need immediate attention.",
+  "attempts": [
+    {
+      "attempt": 1,
+      "passed": true,
+      "summary": "The lesson successfully meets all requirements and provides a clear introduction to the RAG system.",
+      "checks": [
+        {
+          "check_id": "topic_and_purpose",
+          "passed": true,
+          "reason": "The lesson explains what RAG means and why it is useful."
+        },
+        {
+          "check_id": "accurate_and_grounded",
+          "passed": true,
+          "reason": "The lesson provides accurate information about the RAG system without unsupported claims."
+        },
+        {
+          "check_id": "clear_explanation",
+          "passed": true,
+          "reason": "The explanation of how RAG works is clear and follows a logical order."
+        },
+        {
+          "check_id": "beginner_language",
+          "passed": true,
+          "reason": "The language used is simple and suitable for a 12th-grade graduate."
+        },
+        {
+          "check_id": "teaches_by_example",
+          "passed": true,
+          "reason": "A relevant example is included to illustrate the RAG system."
+        },
+        {
+          "check_id": "limits_and_scope",
+          "passed": true,
+          "reason": "The lesson mentions limitations of the RAG system."
+        },
+        {
+          "check_id": "coherent_and_standalone",
+          "passed": true,
+          "reason": "The lesson has a clear structure and can be understood independently."
+        }
+      ],
+      "revision_notes": "Initial draft"
+    }
+  ],
+  "rejection_log": []
+}
