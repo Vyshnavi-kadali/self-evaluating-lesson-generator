@@ -1,0 +1,6 @@
+.env
+*.sqlite3
+lesson_result.json
+__pycache__/
+*.py[cod]
+.venv/

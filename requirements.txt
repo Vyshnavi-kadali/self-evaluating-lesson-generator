@@ -1,0 +1,7 @@
+langchain>=1.0,<2
+langchain-classic>=1.0,<2
+langchain-openai>=0.3,<2
+langsmith>=0.3,<1
+pydantic>=2,<3
+python-dotenv>=1,<2
+streamlit>=1.40,<2
